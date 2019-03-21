@@ -9,9 +9,9 @@ def countdown(number)
   sleep(1.second)
   number-= 1
 end
-puts "HAPPY NEW YEAR!"
-end
 
+end
+puts "HAPPY NEW YEAR!"
 
 
 
