@@ -2,7 +2,7 @@
 
 def countdown(number)
   
- 
+ number = 10
   
   while int>=0
   puts "#{number} SECOND(S)!"
